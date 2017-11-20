@@ -85,6 +85,7 @@ aside {
 
 footer {
 	clear: both;
+	overflow: auto;
 	width: 960px;
 	position: fixed;
 	bottom: 215px;
